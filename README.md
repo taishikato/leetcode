@@ -1,4 +1,4 @@
-# Leetcode and Codewars 🔥
+# LeetCode and Codewars 🔥
 
 ### LeetCode
 
