@@ -10,5 +10,6 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/14.longest-common-prefix.md)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/20.valid-parentheses.md)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/26.remove-duplicates-from-sorted-array.md)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/28.implement-strstr.md)|Easy|
 
 ![roypurdy](https://user-images.githubusercontent.com/980588/75480502-481ad900-5956-11ea-9d96-a6edf7e9b011.gif)
