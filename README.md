@@ -2,8 +2,8 @@
 
 ### LeetCode
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty |Date|
+|---| ----- | -------- | ---------- | -- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/1.two-sum.md)|Easy|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/4.median-of-two-sorted-arrays.md)|**Hard**|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/7.reverse-integer.md)|Easy|
@@ -12,5 +12,6 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/26.remove-duplicates-from-sorted-array.md)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/28.implement-strstr.md)|Easy|
 |53|:skull: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/53.maximum-subarray.md)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/66.plus-one.md)|Easy|4 March 2020|
 
 ![roypurdy](https://user-images.githubusercontent.com/980588/75480502-481ad900-5956-11ea-9d96-a6edf7e9b011.gif)
