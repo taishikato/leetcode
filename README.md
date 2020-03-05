@@ -12,6 +12,7 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/26.remove-duplicates-from-sorted-array.md)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/28.implement-strstr.md)|Easy|
 |53|:skull: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/53.maximum-subarray.md)|Easy|
-|66|:skull: [Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/66.plus-one.md)|Easy|4 March 2020|
+|66|:skull: [Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/66.plus-one.md)|Easy|March 4 2020|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/69.sqrtx.md)|Easy|March 4 2020|
 
 ![roypurdy](https://user-images.githubusercontent.com/980588/75480502-481ad900-5956-11ea-9d96-a6edf7e9b011.gif)
