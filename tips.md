@@ -51,15 +51,6 @@ Math.floor(10/3) // 3
 parseInt('0101001', 2) // 41
 ```
 
-### Generate an unique array from string
-```javascript
-const str = 'abc'
-const str2 = 'ade'
-console.log([...str, ...str2]) // [ 'a', 'b', 'c', 'a', 'd', 'e' ]
-console.log(new Set([...str, ...str2])) // Set { 'a', 'b', 'c', 'd', 'e' } Setオブジェクトにすると重複が消される
-console.log(Array.from(new Set([...str, ...str2]))) // [ 'a', 'b', 'c', 'd', 'e' ] SetオブジェクトをArrayへ
-```
-
 ## Array related
 ### Delete a specific element(in place)
 [Array.prototype.splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
@@ -77,4 +68,31 @@ const arr2 = ['monkey', 'bird']
 
 const merged = arr1.concat(arr2)
 console.log(merged) // [ 'apple', 'orange', 'monkey', 'bird' ]
+```
+
+### Generate an unique array from string
+```javascript
+const str = 'abc'
+const str2 = 'ade'
+console.log([...str, ...str2]) // [ 'a', 'b', 'c', 'a', 'd', 'e' ]
+console.log(new Set([...str, ...str2])) // Set { 'a', 'b', 'c', 'd', 'e' } Setオブジェクトにすると重複が消される
+console.log(Array.from(new Set([...str, ...str2]))) // [ 'a', 'b', 'c', 'd', 'e' ] SetオブジェクトをArrayへ
+```
+
+## String related
+
+### Extract some parts from string
+[String.prototype.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice)
+```javascript
+const str = 'The quick brown fox jumps over the lazy dog.'
+const spliced = str.splice(3, 15) // or substring() https://qiita.com/littlekbt/items/4a47f485391b6b45d96c
+```
+
+### Search a specified value
+[String.prototype.indexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf)
+```javascript
+const paragraph = 'The quick brown fox jumps over the lazy dog. If the dog barked, was it really lazy?';
+
+const searchTerm = 'dog';
+const indexOfFirst = paragraph.indexOf(searchTerm);
 ```
