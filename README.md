@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/1.two-sum.md)|Easy|
+|2|:skull: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/2.add-two-numbers.md)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/4.median-of-two-sorted-arrays.md)|**Hard**|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/7.reverse-integer.md)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/14.longest-common-prefix.md)|Easy|
