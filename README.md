@@ -21,6 +21,7 @@
 |101|:skull: [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/101.symmetric-tree.md)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/121.best-time-to-buy-and-sell-stoc.md)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/125.valid-palindrome.md)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/136.single-number.md)|Easy|
 |206|:skull: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/206.reverse-linked-list.md)|Easy|
 
 ![roypurdy](https://user-images.githubusercontent.com/980588/75480502-481ad900-5956-11ea-9d96-a6edf7e9b011.gif)
