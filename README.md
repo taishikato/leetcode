@@ -23,6 +23,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/125.valid-palindrome.md)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/136.single-number.md)|Easy|
 |141|:skull: [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/141.linked-list-cycle.md)|Easy|
+|160|:skull: [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/160.intersection-of-two-linked-lists.md)|Easy|
 |206|:skull: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/206.reverse-linked-list.md)|Easy|
 
 ![roypurdy](https://user-images.githubusercontent.com/980588/75480502-481ad900-5956-11ea-9d96-a6edf7e9b011.gif)
