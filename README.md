@@ -22,7 +22,7 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/121.best-time-to-buy-and-sell-stoc.md)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/125.valid-palindrome.md)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/136.single-number.md)|Easy|
-|141|:skull: [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/141.linked-list-cycle.md)|Easy|Linked List|
+|141|:skull: [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/141.linked-list-cycle.md)|Easy|Linked List, Two Pointers|
 |160|:skull: [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/160.intersection-of-two-linked-lists.md)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/169.majority-element.md)|Easy|
 |171|:skull: [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/171.excel-sheet-column-number.md)|Easy|
