@@ -18,7 +18,7 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/66.plus-one.md)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/69.sqrtx.md)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/88.merge-sorted-array.md)|Easy|
-|101|:skull: [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/101.symmetric-tree.md)|Easy|
+|101|:skull: [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/101.symmetric-tree.md)|Easy|Binary Tree|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/121.best-time-to-buy-and-sell-stoc.md)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/125.valid-palindrome.md)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/136.single-number.md)|Easy|
