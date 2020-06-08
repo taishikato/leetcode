@@ -24,7 +24,10 @@ const hasDuplicate = (arr: number[]): number => {
   const seen = Array(arr.length).fill(0);
 
   for (let i = 0; i < arr.length; i++) {
-    if (seen[arr[i] - 1] === 0) seen[arr[i] - 1] = 1;
+    if (seen[arr[i] - 1] === 0) {
+      seen[arr[i] - 1] = 1;
+      continue;
+    }
     return arr[i];
   }
   return -1;
