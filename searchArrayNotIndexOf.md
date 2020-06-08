@@ -27,6 +27,6 @@ const hasDuplicate = (arr: number[]): number => {
     if (seen[arr[i] - 1] === 0) seen[arr[i] - 1] = 1;
     return arr[i];
   }
-  return false;
+  return -1;
 }
 ```
