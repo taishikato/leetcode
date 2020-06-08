@@ -1,3 +1,5 @@
+From Codesignal: https://app.codesignal.com/interview-practice/task/pMvymcahZ8dY4g75q
+
 Usually I use `indexOf` when I check that array has a specific value like below.
 
 ```typescript
