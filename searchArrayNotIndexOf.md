@@ -52,3 +52,9 @@ const hasDuplicate = (arr: number[]): number => {
   return -1
 }
 ```
+
+## If you don't need to return the value but boolean… then
+```typescript
+const hasDuplicate = (arr: number[]): boolean => return arr.length > new Set(arr).size;
+```
+
