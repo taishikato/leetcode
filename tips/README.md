@@ -79,6 +79,15 @@ console.log(new Set([...str, ...str2])) // Set { 'a', 'b', 'c', 'd', 'e' } Set�
 console.log(Array.from(new Set([...str, ...str2]))) // [ 'a', 'b', 'c', 'd', 'e' ] SetオブジェクトをArrayへ
 ```
 
+### Find the first and last occurrence of the specified value
+
+```javascript
+const items = ['apple', 'melon', 'cherry', 'watermelon', 'cherry'];
+
+const first = items.indexOf('cherry');
+const last = items.lastIndexOf('cherry');
+```
+
 ## String related
 
 ### Extract some parts from string
