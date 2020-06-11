@@ -26,6 +26,6 @@
 |160|:skull: [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/160.intersection-of-two-linked-lists.md)|Easy|Linked List, Two Pointers|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/169.majority-element.md)|Easy|
 |171|:skull: [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/171.excel-sheet-column-number.md)|Easy|
-|206|:skull: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/206.reverse-linked-list.md)|Easy|
+|206|:skull: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/problems/206.reverse-linked-list.md)|Easy|Linked List|
 
 ![roypurdy](https://user-images.githubusercontent.com/980588/75480502-481ad900-5956-11ea-9d96-a6edf7e9b011.gif)
