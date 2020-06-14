@@ -35,3 +35,4 @@
 |2|:skull: [singleNumber](https://app.codesignal.com/interview-practice/task/APDXraJZYfPSYqQMJ/description)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/codesignal/singleNumber.md)|Easy|XOR|
 |3|[containsCloseNums](https://app.codesignal.com/interview-practice/task/njfXsvjRthFKmMwLC/description)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/codesignal/containsCloseNums.md)|*Medium*|Hash Table|
 |4|:skull: [decodeString](https://app.codesignal.com/interview-practice/task/dYCH8sdnxGf5aGkez/description)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/codesignal/decodeString.md)|Easy|Heaps, Stacks, Queues|
+|5|:skull: [findProfession](https://app.codesignal.com/interview-practice/task/FwAR7koSB3uYYsqDp/description)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/codesignal/findProfession.md)|Easy|Trees|
