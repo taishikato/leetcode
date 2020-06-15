@@ -2,7 +2,7 @@ https://app.codesignal.com/interview-practice/task/6rE3maCQwrZS3Mm2H/description
 
 ## My Answer
 
-This is ok but has more time complexity that `O(l1.length + l2.length)`.
+This is ok but has more time complexity than `O(l1.length + l2.length)`.
 
 ```javascript
 const mergeTwoLinkedLists = (l1, l2) => {
