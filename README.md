@@ -36,3 +36,4 @@
 |3|[containsCloseNums](https://app.codesignal.com/interview-practice/task/njfXsvjRthFKmMwLC/description)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/codesignal/containsCloseNums.md)|*Medium*|Hash Table|
 |4|:skull: [decodeString](https://app.codesignal.com/interview-practice/task/dYCH8sdnxGf5aGkez/description)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/codesignal/decodeString.md)|Easy|Heaps, Stacks, Queues|
 |5|:skull: [findProfession](https://app.codesignal.com/interview-practice/task/FwAR7koSB3uYYsqDp/description)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/codesignal/findProfession.md)|Easy|Trees|
+|6|[mergeTwoLinkedLists](https://app.codesignal.com/interview-practice/task/6rE3maCQwrZS3Mm2H/description)|[JavaScript](https://github.com/taishikato/leetcode/blob/master/codesignal/mergeTwoLinkedLists.md)|*Medium*|Linked List|
