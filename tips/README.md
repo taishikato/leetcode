@@ -8,7 +8,7 @@ And returns a object(`this`) without `return`.
 const obj = { hoge: 'yeah', fuga: 'yes' }
 
 // Old
-const clone = obj.assign({}, obj)
+const clone = Object.assign({}, obj)
 
 // ES2018
 const clone = { ...obj }
